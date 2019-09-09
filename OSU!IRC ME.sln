@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSU!IRC ME", "OSU!IRC ME\OSU!IRC ME.csproj", "{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB38D7AF-EB92-4194-A535-963290C6521A}
+	EndGlobalSection
+EndGlobal
