@@ -9,7 +9,7 @@ nuget install packages.config
 ### Usage
 - Download the program [here](https://github.com/MagonxESP/OSU_IRC_ME/releases) and open it.
 - Select your OSU! installation directory and connect with your account (see https://osu.ppy.sh/help/wiki/Internet_Relay_Chat)
-- Open OSU! and make sure you have disable "Log private messages" option.
+- Open OSU! and make sure you have disabled "Log private messages" option.
 ![option](https://i.imgur.com/KgkpuVF.png "Log private messages")
 - Open the ingame chat on osu (press F8) and execute on any channel /query YOUR_USEERNAME (this will open a chat with yourself)
 - Send any message to yourself (banchobot block your message) and execute /savelog
