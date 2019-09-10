@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:OSU_IRC_ME"
         mc:Ignorable="d"
-        Title="OSU!IRC ME" Height="253" Width="500" ResizeMode="CanMinimize">
+        Title="OSU!IRC ME" Height="253" Width="500" ResizeMode="CanMinimize" Icon="osu_me_icon.ico">
     <Grid Margin="0,0,0,-1">
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>

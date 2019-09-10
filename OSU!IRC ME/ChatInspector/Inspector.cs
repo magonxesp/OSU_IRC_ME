@@ -16,13 +16,11 @@ namespace OSU_IRC_ME.ChatInspector {
         public delegate void OnMessageHandler(object sender, MessageArgs e);
         public event OnChatLogHandler ChatLog;
         public event OnMessageHandler Message;
-        private string latestMessage;
 
         public Inspector(string osuInstallationPath, string targetUser) {
             this.osuInstallationPath = osuInstallationPath;
             this.targetUser = targetUser;
             this.osuChatLogsPath = osuInstallationPath + "\\Chat";
-            this.latestMessage = "";
         }
 
         private string GetRecentChatLog() {

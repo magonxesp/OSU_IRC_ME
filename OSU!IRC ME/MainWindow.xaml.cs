@@ -52,16 +52,17 @@ namespace OSU_IRC_ME {
 
         private void SetupOsuInstallationPath() {
             installationPath = GetDefaultOsuInstallationPath();
+            OsuInstallationPathTextBox.Text = installationPath;
 
-            if (IsValidOsuInstallationPath(installationPath)) {
-                OsuInstallationPathTextBox.Text = GetDefaultOsuInstallationPath();
-            } else {
+            if (!IsValidOsuInstallationPath(installationPath)) {
                 installationPath = SetOsuInstallationDirectory();
 
                 if (installationPath != null) {
                     OsuInstallationPathTextBox.Text = installationPath;
                     isValidInstallationPath = true;
                 }
+            } else {
+                isValidInstallationPath = true;
             }
         }
 
