@@ -13,5 +13,6 @@ nuget install packages.config
 ![option](https://i.imgur.com/KgkpuVF.png "Log private messages")
 - Open the ingame chat on osu (press F8) and execute on any channel /query YOUR_USEERNAME (this will open a chat with yourself)
 - Send any message to yourself (banchobot block your message) and execute /savelog
+- You now received your message from yourself!
 - Enjoy!!
 
