@@ -5,7 +5,9 @@ Tool for debug osu! bots. Send messages to yourself from osu!
 ```
 nuget install packages.config
 ```
-
+### Requeriments
+Windows 10 and .NET Framework 4.7.1 or later.
+I think will work with Windows 7 or later but i tested directly on Windows 10.
 ### Usage
 - Download the program [here](https://github.com/MagonxESP/OSU_IRC_ME/releases) and open it.
 - Select your OSU! installation directory and connect with your account (see https://osu.ppy.sh/help/wiki/Internet_Relay_Chat)
