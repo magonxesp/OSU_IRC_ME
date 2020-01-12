@@ -5,16 +5,52 @@ VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSU!IRC ME", "OSU!IRC ME\OSU!IRC ME.csproj", "{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OSU!IRC ME Installer", "OSU!IRC ME Installer\OSU!IRC ME Installer.vdproj", "{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|ARM.Build.0 = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|x64.Build.0 = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Debug|x86.Build.0 = Debug|Any CPU
 		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|ARM.ActiveCfg = Release|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|ARM.Build.0 = Release|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|ARM64.Build.0 = Release|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|x64.ActiveCfg = Release|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|x64.Build.0 = Release|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|x86.ActiveCfg = Release|Any CPU
+		{426B18C1-C8DE-4D4E-A6B4-9B1997FC1407}.Release|x86.Build.0 = Release|Any CPU
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Debug|Any CPU.ActiveCfg = Debug
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Debug|ARM.ActiveCfg = Debug
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Debug|ARM64.ActiveCfg = Debug
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Debug|x64.ActiveCfg = Debug
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Debug|x86.ActiveCfg = Debug
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Release|Any CPU.ActiveCfg = Release
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Release|ARM.ActiveCfg = Release
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Release|ARM64.ActiveCfg = Release
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Release|x64.ActiveCfg = Release
+		{B59243BC-D4E7-45CB-9ADF-9E6FEDD714F9}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
