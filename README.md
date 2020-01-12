@@ -13,7 +13,7 @@ I think will work with Windows 7 or later but i tested directly on Windows 10.
 - Select your OSU! installation directory and connect with your account (see https://osu.ppy.sh/help/wiki/Internet_Relay_Chat)
 - Open OSU! and make sure you have disabled "Log private messages" option.
 ![option](https://i.imgur.com/KgkpuVF.png "Log private messages")
-- Open the ingame chat on osu (press F8) and execute on any channel /query YOUR_USEERNAME (this will open a chat with yourself)
+- Open the ingame chat on osu (press F8) and execute on any channel /query YOUR_USERNAME (this will open a chat with yourself)
 - Send any message to yourself (banchobot block your message) and execute /savelog
 - You now received your message from yourself!
 - Enjoy!!
