@@ -2,7 +2,7 @@
 .vscode
 .idea
 packages
-OSU\!IRC\ ME/bin
-OSU\!IRC\ ME/obj
-OSU\!IRC\ ME/publish
-OSU\!IRC\ ME/*.pfx
+*/bin
+*/obj
+*/publish
+*/*.pfx
